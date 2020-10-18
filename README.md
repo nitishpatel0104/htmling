@@ -15,6 +15,10 @@ via [npm](https://npmjs.org/package/htmling)
 npm install htmling
 ```
 
+## Recommended IDE
+
+VS-Code
+
 ## Example
 
 Turns this:
